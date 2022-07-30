@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CapTen13
+- 👋 Hi, I’m Tenille Phillips
 - 👀 I’m interested in learning new things, video games, and travel.
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’ve learned HTML/CSS, JavaScript, Python, and SQL. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
